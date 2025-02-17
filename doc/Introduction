@@ -28,6 +28,7 @@ Make a folder in your repository to store all your documentation files, like gui
    - Enter the folder name with the format name/. Make sure to include the slash at the end.
    - On the right side of the page, you’ll see the Commit new file button. Click on it to create the folder.
 
+
 * **Use Markdown Files:**
    - Create `.md` files for each section of your documentation.
    - Name your files clearly `(e.g., introduction.md, installation.md, etc)`.

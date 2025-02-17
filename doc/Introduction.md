@@ -19,21 +19,30 @@ To ensure that GitBook can read your content, follow these steps:
    - Include a short description of the documentation and provide any important links that might be useful. These links could lead to the a website, related resources, or any other related materials.
 
 #### 1.2 Organize Your Content
-* **Create a docs Folder:**
+* **Create a Folder:**
 Make a folder in your repository to store all your documentation files, like guides and instructions. This helps keep everything organized and makes it easy for anyone to find and work on the documentation.
 
    - Choose the repository where you want to create a folder.
-   - On the left sidebar, you’ll see the “Create new file” button. Click on it.
-   - Enter the folder name with the format name/. Make sure to include the slash at the end.
+   - On the left sidebar, you’ll see the `“Create new file”` button. Click on it.
+   - Enter the folder name with the format `name/`. Make sure to include the slash at the end.
    - On the right side of the page, you’ll see the Commit new file button. Click on it to create the folder.
 
+   [![Tap This](image-7.png)](https://drive.google.com/file/d/1a-SSMcyxyvBt9sZWh1fWSsosz1bhdnNT/view?usp=sharing)
+
 * **Use Markdown Files:**
-   - Create `.md` files for each section of your documentation.
-   - Name your files clearly `(e.g., introduction.md, installation.md, etc)`.
+   - Create `.md (Markdown)` files for each part of your documentation. These files will contain the details for different sections, like how to use the documentation, installation steps, or any other important information.
+   - Name your files in a clear and easy-to-understand way, such as `introduction.md, installation.md,` and so on. This makes it simple for anyone to find the information they need without confusion.
+   - By organizing your documentation into separate files, it will be easier to manage and update, and users will be able to quickly navigate to the information they’re looking for.
+
  
 * **Index File:**
-   - Create a file named `SUMMARY.md` in the folder.
-   - This file will outline the structure of your documentation.
+This file will serve as a table of contents for your documentation. 
+   - Create a file called `SUMMARY.md` inside your folder.
+
+   ![alt text](image-8.png)
+
+By having a `SUMMARY.md` file, you make it much easier for readers to navigate through your documentation. It will list all the sections and chapters in the order they should appear, helping users understand the structure of your documentation at a glance.
+
 
 ### 2. Creating a Clear Navigation Structure
 
