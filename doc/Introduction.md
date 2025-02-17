@@ -33,7 +33,7 @@ To ensure that GitBook can read your content, follow these steps:
     * Enter the folder name with the format `name/`. Make sure to include the slash at the end.
     * On the right side of the page, you’ll see the Commit new file button. Click on it to create the folder.
 
-    &#x20;                                                        [![Tap This](image-9.png)](https://drive.google.com/file/d/1a-SSMcyxyvBt9sZWh1fWSsosz1bhdnNT/view?usp=sharing)
+    &#x20;                                                        [![Create a Folder](image-9.png)](https://drive.google.com/file/d/1a-SSMcyxyvBt9sZWh1fWSsosz1bhdnNT/view?usp=sharing)
 * **Use Markdown Files:**
   * Create `.md (Markdown)` files for each part of your documentation. These files will contain the details for different sections, like how to use the documentation, installation steps, or any other important information.
   * Name your files in a clear and easy-to-understand way, such as `introduction.md, installation.md,` and so on. This makes it simple for anyone to find the information they need without confusion.
