@@ -1,6 +1,4 @@
-# README
-
-## How to Create Accounts on GitHub and GitBook
+# How to Create Accounts on GitHub and GitBook
 
 This guide will walk you through the steps to create accounts on GitHub and GitBook, two essential platforms for hosting and managing your code and documentation.
 
